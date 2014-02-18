@@ -1595,13 +1595,13 @@ td {
 /* Default Link Styles */
 /* line 151, ../sass/foundation/scss/foundation/components/_type.scss */
 a {
-  color: #e01b3f;
+  /*color: #e01b3f;*/
   text-decoration: none;
   line-height: inherit;
 }
 /* line 157, ../sass/foundation/scss/foundation/components/_type.scss */
 a:hover, a:focus {
-  color: #c91839;
+  /*color: #c91839;*/
 }
 /* line 159, ../sass/foundation/scss/foundation/components/_type.scss */
 a img {
@@ -7084,23 +7084,4 @@ footer a {
 /* line 486, ../sass/style.sass */
 .newsletter-teaser img {
   width: 100%;
-}
-
-/*************
-**Added 2014**
-**************/
-
-/* Sponsors Table */
-#sponsors tr td {
-    width: 10%;
-}
-iframe {
-    width: 100%;
-}
-.reg-form {
-    width: 100%;
-    height: 900px;
-}
-.terms {
-    margin-bottom: 20px;
 }
