@@ -7076,14 +7076,9 @@ h1 {
 /* line 472, ../sass/screen.sass */
 .sponsors {
   text-align: center;
-  color: white;
   padding: 100px 0;
+  background-color: white;
 }
-/* line 476, ../sass/screen.sass */
-.sponsors h2 {
-  color: white;
-}
-
 /* line 479, ../sass/screen.sass */
 .startups-super {
   background: white;
